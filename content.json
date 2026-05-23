@@ -24,8 +24,16 @@
   ],
 "banners": [
   {
-    "title": "PRUEBA DESDE GITHUB",
-    "image": "https://..."
+    "title": "Avatar 2",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  },
+  {
+    "title": "Deadpool",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/inVq3FRqcYIRl2la8iZikYYxFNR.jpg",
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
   }
 ]
 }
