@@ -1,8 +1,18 @@
 {
   "movies": [
     {
-     "title": "PRUEBA DESDE GITHUB",
-      "imageUrl": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "Avatar 2",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "title": "Deadpool",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/inVq3FRqcYIRl2la8iZikYYxFNR.jpg",
+      "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "imageUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
       "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
   ],
@@ -14,8 +24,16 @@
   ],
   "banners": [
     {
-      "title": "John Wick 4",
-      "image": "https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+      "title": "Avatar 2",
+      "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+    },
+    {
+      "title": "Deadpool",
+      "image": "https://image.tmdb.org/t/p/w500/inVq3FRqcYIRl2la8iZikYYxFNR.jpg"
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "image": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
     }
   ]
 }
