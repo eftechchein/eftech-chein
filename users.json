@@ -3,7 +3,7 @@
     {
       "username": "admin",
       "password": "1234",
-      "active": true
+      "active": false
     },
     {
       "username": "cliente1",
