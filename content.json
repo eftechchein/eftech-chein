@@ -18,52 +18,8 @@
   ],
 "channels": [
   {
-    "name": "AR | TELEFE",
-    "url": "http://tutele.lat:8080/live/pamela/123456/492.ts"
-  },
-  {
-    "name": "AR | AMERICA TV",
-    "url": "http://tutele.lat:8080/live/pamela/123456/494.ts"
-  },
-  {
-    "name": "AR | EL NUEVE",
-    "url": "http://tutele.lat:8080/live/pamela/123456/495.ts"
-  },
-  {
-    "name": "AR | EL TRECE",
-    "url": "http://tutele.lat:8080/live/pamela/123456/496.ts"
-  },
-  {
-    "name": "AR | TELEFE SD",
-    "url": "http://tutele.lat:8080/live/pamela/123456/498.ts"
-  },
-  {
-    "name": "AR | A24",
-    "url": "http://tutele.lat:8080/live/pamela/123456/501.ts"
-  },
-  {
-    "name": "AR | C5N",
-    "url": "http://tutele.lat:8080/live/pamela/123456/503.ts"
-  },
-  {
-    "name": "AR | Canal 26",
-    "url": "http://tutele.lat:8080/live/pamela/123456/505.ts"
-  },
-  {
-    "name": "AR | Cine AR",
-    "url": "http://tutele.lat:8080/live/pamela/123456/512.ts"
-  },
-  {
-    "name": "AR | Garage TV",
-    "url": "http://tutele.lat:8080/live/pamela/123456/518.ts"
-  },
-  {
-    "name": "AR | Paka Paka",
-    "url": "http://tutele.lat:8080/live/pamela/123456/520.ts"
-  },
-  {
-    "name": "AR | TN",
-    "url": "http://tutele.lat:8080/live/pamela/123456/522.ts"
+    "name": "Canal de prueba",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ],
   "banners": [
