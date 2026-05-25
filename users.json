@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "1234",
+      "active": true
+    },
+    {
+      "username": "cliente1",
+      "password": "1111",
+      "active": true
+    },
+    {
+      "username": "cliente2",
+      "password": "2222",
+      "active": false
+    }
+  ]
+}
