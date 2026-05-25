@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "username": "admin",
-      "password": "1234",
-      "active": false
+      "username": "matias",
+      "password": "37927807",
+      "active": true
     },
     {
-      "username": "cliente1",
-      "password": "1111",
+      "username": "peke",
+      "password": "456789peke",
       "active": true
     },
     {
