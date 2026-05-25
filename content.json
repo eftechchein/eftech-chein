@@ -18,60 +18,52 @@
   ],
 "channels": [
   {
-    "name": "TNT Sports",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/4_.m3u8?token=jYVzWasTWGNBm3umupkEOQ&expires=1779747952"
+    "name": "AR | TELEFE",
+    "url": "http://tutele.lat:8080/live/pamela/123456/492.ts"
   },
   {
-    "name": "TyC Sports",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/6_.m3u8?token=E-NYfk69leVrakKArUFcBw&expires=1779748097"
+    "name": "AR | AMERICA TV",
+    "url": "http://tutele.lat:8080/live/pamela/123456/494.ts"
   },
   {
-    "name": "TUDN",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/1_.m3u8?token=BWio1IKpYP-YALuiblN1PA&expires=1779748169"
+    "name": "AR | EL NUEVE",
+    "url": "http://tutele.lat:8080/live/pamela/123456/495.ts"
   },
   {
-    "name": "ESPN Premium",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/5_.m3u8?token=enKHvouhQ6hYK-eUqC6yVg&expires=1779748214"
+    "name": "AR | EL TRECE",
+    "url": "http://tutele.lat:8080/live/pamela/123456/496.ts"
   },
   {
-    "name": "ESPN 1",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/13_.m3u8?token=hPzhnrtUNqkHMfIMVNnJ3g&expires=1779748268"
+    "name": "AR | TELEFE SD",
+    "url": "http://tutele.lat:8080/live/pamela/123456/498.ts"
   },
   {
-    "name": "ESPN 2",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/14_.m3u8?token=l_UnkyX085U0FRR6TEt54g&expires=1779748303"
+    "name": "AR | A24",
+    "url": "http://tutele.lat:8080/live/pamela/123456/501.ts"
   },
   {
-    "name": "ESPN 3",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/15_.m3u8?token=5auD4jAWk3uVVXiog0Vk8A&expires=1779748345"
+    "name": "AR | C5N",
+    "url": "http://tutele.lat:8080/live/pamela/123456/503.ts"
   },
   {
-    "name": "ESPN 4",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/23_.m3u8?token=9MzyZHzbhhYqc37q98mihA&expires=1779748382"
+    "name": "AR | Canal 26",
+    "url": "http://tutele.lat:8080/live/pamela/123456/505.ts"
   },
   {
-    "name": "ESPN 5",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/24_.m3u8?token=FzWYbNW9rV3fMVmShD3m3g&expires=1779748420"
+    "name": "AR | Cine AR",
+    "url": "http://tutele.lat:8080/live/pamela/123456/512.ts"
   },
   {
-    "name": "FOX Sports 1",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/8_.m3u8?token=ubUElwbo5Xd21sRftlFwWQ&expires=1779748452"
+    "name": "AR | Garage TV",
+    "url": "http://tutele.lat:8080/live/pamela/123456/518.ts"
   },
   {
-    "name": "FOX Sports 2",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/9_.m3u8?token=DN3xcC4WpHeIHYAZifgIlQ&expires=1779748500"
+    "name": "AR | Paka Paka",
+    "url": "http://tutele.lat:8080/live/pamela/123456/520.ts"
   },
   {
-    "name": "FOX Sports 3",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/10_.m3u8?token=capqW5MPdqnDDv-sbfEDVA&expires=1779748535"
-  },
-  {
-    "name": "DIRECTV Sports",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/3_.m3u8?token=mgOUenXPQ09-JMctQgX2Yw&expires=1779748589"
-  },
-  {
-    "name": "DAZN F1",
-    "url": "https://deportes.ksdjugfsddeports.com:9092/MTgxLjExNi4yMTUuMTY3/27_.m3u8?token=gooh3vCkhlOYs8QEzXjj5w&expires=1779748678"
+    "name": "AR | TN",
+    "url": "http://tutele.lat:8080/live/pamela/123456/522.ts"
   }
 ],
   "banners": [
